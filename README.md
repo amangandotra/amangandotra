@@ -14,5 +14,5 @@
 - DB: PostgreSQL
 - Tools: Git, GitHub, Render
 
-## 📈 GitHub Stats
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amangandotra&show_icons=true&theme=radical)
+## Projects
+www.thrivemun.com
