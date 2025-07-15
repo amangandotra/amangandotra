@@ -20,7 +20,7 @@ www.thrivemun.com
 ---
 <h2>👨‍💻 LeetCode Stats</h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AmanGandotra?theme=dark&font=Allerta%20Stencil&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AmanGandotra?theme=dark&font=Allerta%20Stencil&ext=heatmap&hide=ranking)
 
 🔢 **Global Rank (auto-updated daily):** {{LEETCODE_RANK}}
 
