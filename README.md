@@ -24,12 +24,3 @@ www.thrivemun.com
 
 ## 💬 Quote of the Day
 _"{{QUOTE}}"_
-
-## 🕒 Current Time : <span id="clock"></span>
-
-<script>
-  setInterval(() => {
-    document.getElementById('clock').innerText =
-      new Date().toLocaleTimeString();
-  }, 1000);
-</script>
