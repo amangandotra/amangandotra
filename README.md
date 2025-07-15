@@ -17,11 +17,15 @@
 ## Projects
 www.thrivemun.com
 
-## 👨‍💻 LeetCode Stats
-🔢 Rank: Error
+---
+<h2>👨‍💻 LeetCode Stats</h2>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jacoblincool?theme=unicorn&font=Kanit&ext=heatmap)
+
+🔢 **Global Rank (auto-updated daily):** {{LEETCODE_RANK}}
 
 ---
 
-## 💬 Quote of the Day
-_"Stay curious, keep learning."_
+<h2>💬 Quote of the Day</h2>
+
+_"{{QUOTE}}"_
