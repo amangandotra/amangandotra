@@ -16,3 +16,5 @@
 
 ## Projects
 www.thrivemun.com
+
+## 🕒 Current Time : {{TIME}}
