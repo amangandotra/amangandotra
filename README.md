@@ -25,5 +25,5 @@ www.thrivemun.com
 
 <h2>💬 Quote of the Day</h2>
 
-_"{{QUOTE}}"_
+_"Stay curious, keep learning."_
 
