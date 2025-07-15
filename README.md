@@ -22,10 +22,10 @@ www.thrivemun.com
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AmanGandotra?theme=dark&font=Allerta%20Stencil&ext=heatmap&hide=ranking)
 
-🔢 **Global Rank (auto-updated daily):** {{LEETCODE_RANK}}
+🔢 **Global Rank (auto-updated daily):** Error
 
 ---
 
 <h2>💬 Quote of the Day</h2>
 
-_"{{QUOTE}}"_
+_"Stay curious, keep learning."_
