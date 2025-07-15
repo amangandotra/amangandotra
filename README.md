@@ -18,10 +18,10 @@
 www.thrivemun.com
 
 ## 👨‍💻 LeetCode Stats
-🔢 Rank: {{LEETCODE_RANK}}
+🔢 Rank: Error
 
 
 ---
 
 ## 💬 Quote of the Day
-_"{{QUOTE}}"_
+_"Stay curious, keep learning."_
