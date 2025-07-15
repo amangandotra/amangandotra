@@ -1,0 +1,25 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          TIME=$(date +"%Y-%m-%d %H:%M:%S")
+          sed -i "s/{{TIME}}/$TIME/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated time to $TIME" || echo "No changes"
+          git push
