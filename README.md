@@ -17,4 +17,12 @@
 ## Projects
 www.thrivemun.com
 
+## 👨‍💻 LeetCode Stats
+🔢 Rank: {{LEETCODE_RANK}}
+
+---
+
+## 💬 Quote of the Day
+_"{{QUOTE}}"_
+
 ## 🕒 Current Time : {{TIME}}
