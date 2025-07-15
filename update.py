@@ -2,23 +2,23 @@ import requests
 import re
 
 username = "amangandotra" 
-leetcode_api = f"https://leetcode-stats-api.herokuapp.com/{username}"
+url = f"https://leetcode-api.jacoblin.cool/{username}"
 
 try:
-    response = requests.get(leetcode_api, timeout=10)
+    response = requests.get(url, timeout=10)
     data = response.json()
-    rank = data.get("ranking", "N/A")
+    rank = data["data"].get("ranking", "N/A")
 except Exception as e:
     rank = "Error"
 
-# === Step 2: Random Quote ===
+# === Get Random Quote ===
 try:
     quote_response = requests.get("https://api.quotable.io/random", timeout=10)
     quote = quote_response.json().get("content", "Stay curious, keep learning.")
-except Exception:
+except:
     quote = "Stay curious, keep learning."
 
-# === Step 3: Update README.md ===
+# === Update README.md ===
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
