@@ -21,7 +21,6 @@ www.thrivemun.com
 <h2>👨‍💻 LeetCode Stats</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AmanGandotra?theme=dark&font=Allerta%20Stencil&ext=heatmap)
-
 ---
 
 <h2>💬 Quote of the Day</h2>
