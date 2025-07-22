@@ -6,7 +6,7 @@
 - 🌱 Currently learning: C++, Web Development, AI/ML
 - 💼 Projects: MUN Websites, Shreya Bot (AI Assistant), IoT with ESP8266, relays etc
 - 🔭 Interests: AI, IoT, Startups, Open Source
-- 📫 Reach me: amangandotra5744@gmail.com | linkedin.com/in/amangandotra
+- 📫 Reach me: amangandotra5744@gmail.com | ![LinkedIN](linkedin.com/in/amangandotra)
 
 ## 🧰 Tech Stack
 - Languages: C, C++, Python, JavaScript, HTML/CSS
